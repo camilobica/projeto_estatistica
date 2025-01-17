@@ -32,7 +32,7 @@ A FAZER faça um texto explicando o contexto.
 1. Faça o clone do repositório.
 
     ```bash
-    git clone git@github.com:exemplohashtag/projeto_teste.git
+    git clone git@github.com:camilobica/projeto_estatistica.git
     ```
 
 2. Crie um ambiente virtual para o seu projeto utilizando o `conda`.
